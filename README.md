@@ -136,7 +136,8 @@ Any contribution helps advance NeuroAIHub and supports the neuroradiology resear
 
 ## 👤 Developed by
 
-**Benyamin Gheiji**  
+**Benyamin Gheiji**
+
 Medical Student  
 Machine Learning & Deep Learning Developer  
 Passionate about AI/Radiology  
@@ -147,7 +148,7 @@ Passionate about AI/Radiology
 <a href="https://scholar.google.com/citations?user=0Fdy24gAAAAJ&hl=en">
   <img src="https://img.shields.io/badge/Google_Scholar-Profile-lightgrey?style=for-the-badge&logo=google-scholar" />
 </a>
-<a href="https://github.com/BenyGH2003">
+<a href="https://github.com/benyamin-gheiji">
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
 </a>
 <a href="mailto:benyamingheiji@gmail.com">
@@ -176,6 +177,7 @@ If you find NeuroAIHub useful or inspiring:
 📣 **Share** with peers in AI and radiology  
 
 Together, we can make neuroradiology dataset discovery **faster, smarter, and more accessible** for everyone. 🚀
+
 
 
 
