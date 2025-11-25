@@ -1,9 +1,10 @@
-streamlit=>1.38.0
-pandas=>1.5.3
-matplotlib=>3.10.6
-seaborn=>0.12.2
-openpyxl=>3.1.2
+streamlit>=1.38.0
+pandas>=1.5.3
+matplotlib>=3.10.6
+seaborn>=0.12.2
+openpyxl>=3.1.2
 langchain==0.3.0
 langchain-openai==0.3.17
 langchain-experimental==0.3.4
-pydantic=>2.11.4
+pydantic>=2.11.4
+
