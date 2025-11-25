@@ -46,13 +46,13 @@ If you prefer to run the app locally or the hosted version is temporarily unavai
 git clone https://github.com/benyamin-gheiji/NeuroAIHub.git
 cd NeuroAIHub/web_app
 pip install -r requirements.txt
-streamlit run app/main.py
+streamlit run main.py
 ```
 NeuroAIHub web application offers two complementary modes for exploring the database:
 
 🔧 **Direct-Control Interface**
 
-A structured, form-based interface for quick tasks such as browsing datasets, applying filters, inspecting metadata tables, and generating basic plots. Ideal for users who prefer guided, non-conversational interaction:
+A structured, form-based interface for quick tasks such as browsing datasets, applying filters, inspecting metadata tables, and generating basic plots. Ideal for users who prefer guided, non-conversational interaction.
 
 💬 **NeuroAI Chat Agent Interface**
 
@@ -176,5 +176,6 @@ If you find NeuroAIHub useful or inspiring:
 📣 **Share** with peers in AI and radiology  
 
 Together, we can make neuroradiology dataset discovery **faster, smarter, and more accessible** for everyone. 🚀
+
 
 
