@@ -163,6 +163,8 @@ A heartfelt thank you to everyone who contributed to NeuroAIHub.
 
 Special appreciation to my colleagues [**Sina Moradi**](https://www.linkedin.com/in/sinusealpha), [**Mahsa Vatanparast**](https://www.linkedin.com/in/mahsa-vatanparast-24314b2a7), [**Sana Shokrani**](https://www.linkedin.com/in/sana-shokrani-6392512a4), [**Mohammad Aref Bagherzadeh**](https://www.linkedin.com/in/mohammad-aref-bagherzadeh-3a3245a2), [**Danial Elyassirad**](https://www.linkedin.com/in/danial-elyassirad-6aa625245), [**Oluwatobi Iyanuoluwa Akinmuleya**](https://www.linkedin.com/in/akinmuleya), [**Sina Goodarzi**](https://www.linkedin.com/in/sina-goodarzi-6610212a2), and [**Mahsa Heidari-Foroozan**](https://www.linkedin.com/in/mahsa-heidari-foroozan-99969b19a), whose efforts in discovering datasets and extracting metadata were essential in building the foundational database.
 
+Additional thanks to [**Mana Moassefi**](https://www.linkedin.com/in/mana-moassefi-a6b589119/), [**Jeffrey Rudie**](https://www.linkedin.com/in/jeff-rudie/), [**Evan Calabrese**](https://scholar.google.com/citations?user=gNEakpEAAAAJ&hl=en), and [**Rajan Jain**](https://scholar.google.com/citations?user=Wgi5-XMAAAAJ&hl=en) for their invaluable comments and thoughtful feedback, which helped refine and strengthen the project.
+
 A very special thanks to [**Dr. Shahriar Faghani**](https://www.linkedin.com/in/shahriar-faghani-7b468082) for his visionary idea that inspired this project, and for his invaluable mentorship, encouragement, and guidance. His influence was instrumental in transforming NeuroAIHub from a concept into a working ecosystem.
 
 ---
@@ -176,6 +178,7 @@ If you find NeuroAIHub useful or inspiring:
 📣 **Share** with peers in AI and radiology  
 
 Together, we can make neuroradiology dataset discovery **faster, smarter, and more accessible** for everyone. 🚀
+
 
 
 
