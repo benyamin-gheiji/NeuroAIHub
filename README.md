@@ -174,6 +174,8 @@ A very special thanks to [**Dr. Shahriar Faghani**](https://www.linkedin.com/in/
 For detailed methodology, results, and technical insights, refer to the official NeuroAIHub paper:  
 👉 **[Read the Paper](https://www.ajnr.org/content/early/2026/04/24/ajnr.A9363)**
 
+---
+
 # ⭐ **Support NeuroAIHub**
 
 If you find NeuroAIHub useful or inspiring:  
