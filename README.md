@@ -43,7 +43,7 @@ Access instantly at:
 💻 Local Access (Run on Your Machine)   
 If you prefer to run the app locally or the hosted version is temporarily unavailable, you can launch the exact same interface from the repository:
  ```bash
-git clone https://github.com/benyamin-gheiji/NeuroAIHub.git
+git clone https://github.com/NeuroAIHub-Registry/NeuroAIHub
 cd NeuroAIHub/web_app
 pip install -r requirements.txt
 streamlit run main.py
