@@ -39,6 +39,12 @@ if user_api_key:
 else:
     st.sidebar.info("ℹ️ Enter your API key, base URL, and model name to activate the chat agent.")
 
+st.sidebar.markdown("""
+### 📚 Resources
+- 📄 [NeuroAIHub Paper](https://www.ajnr.org/content/early/2026/04/24/ajnr.A9363)
+- 💻 [NeuroAIHub GitHub Repository](https://github.com/NeuroAIHub-Registry/NeuroAIHub)
+""")
+
 dataframes, combined_df, sheet_names = load_data()
 
 if llm:
