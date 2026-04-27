@@ -169,6 +169,11 @@ A very special thanks to [**Dr. Shahriar Faghani**](https://www.linkedin.com/in/
 
 ---
 
+# 📄 **Research Paper**
+
+For detailed methodology, results, and technical insights, refer to the official NeuroAIHub paper:  
+👉 **[Read the Paper](https://www.ajnr.org/content/early/2026/04/24/ajnr.A9363)**
+
 # ⭐ **Support NeuroAIHub**
 
 If you find NeuroAIHub useful or inspiring:  
@@ -178,10 +183,3 @@ If you find NeuroAIHub useful or inspiring:
 📣 **Share** with peers in AI and radiology  
 
 Together, we can make neuroradiology dataset discovery **faster, smarter, and more accessible** for everyone. 🚀
-
-
-
-
-
-
-
