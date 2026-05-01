@@ -43,7 +43,7 @@ Access instantly at:
 💻 Local Access (Run on Your Machine)   
 If you prefer to run the app locally or the hosted version is temporarily unavailable, you can launch the exact same interface from the repository:
  ```bash
-git clone https://github.com/benyamin-gheiji/NeuroAIHub.git
+git clone https://github.com/NeuroAIHub-Registry/NeuroAIHub
 cd NeuroAIHub/web_app
 pip install -r requirements.txt
 streamlit run main.py
@@ -169,6 +169,13 @@ A very special thanks to [**Dr. Shahriar Faghani**](https://www.linkedin.com/in/
 
 ---
 
+# 📄 **Research Paper**
+
+For detailed methodology, results, and technical insights, refer to the official NeuroAIHub paper:  
+👉 **[Read the Paper](https://www.ajnr.org/content/early/2026/04/24/ajnr.A9363)**
+
+---
+
 # ⭐ **Support NeuroAIHub**
 
 If you find NeuroAIHub useful or inspiring:  
@@ -178,10 +185,3 @@ If you find NeuroAIHub useful or inspiring:
 📣 **Share** with peers in AI and radiology  
 
 Together, we can make neuroradiology dataset discovery **faster, smarter, and more accessible** for everyone. 🚀
-
-
-
-
-
-
-
